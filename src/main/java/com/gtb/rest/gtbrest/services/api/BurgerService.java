@@ -1,4 +1,4 @@
-package com.gtb.rest.gtbrest.services;
+package com.gtb.rest.gtbrest.services.api;
 
 import com.gtb.rest.gtbrest.document.Burger;
 import reactor.core.publisher.Flux;

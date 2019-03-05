@@ -2,6 +2,7 @@ package com.gtb.rest.gtbrest.services;
 
 import com.gtb.rest.gtbrest.document.Burger;
 import com.gtb.rest.gtbrest.repository.BurgerRepository;
+import com.gtb.rest.gtbrest.services.api.BurgerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;

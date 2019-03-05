@@ -1,7 +1,7 @@
 package com.gtb.rest.gtbrest.controller;
 
 import com.gtb.rest.gtbrest.document.Burger;
-import com.gtb.rest.gtbrest.services.BurgerService;
+import com.gtb.rest.gtbrest.services.api.BurgerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import reactor.core.publisher.Flux;
